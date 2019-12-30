@@ -16,17 +16,13 @@ nav {
     /* margin-left: 100%; */
 }
 
-#navbarSupportedContent {
-    /* margin-right: 4rem; */
-}
-
 .mainNavItems {
     padding-right: 2rem;
 }
 
-img {
+/* img {
     width: 100%;
-}
+} */
 .carousel-item {
     height: 700px;
   }
