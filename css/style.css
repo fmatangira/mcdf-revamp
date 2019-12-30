@@ -23,3 +23,16 @@ nav {
   .drillWellBlock {
       background-color: #ed8240;
   }
+
+  #slider-animation{max-height:550px;}
+  .heading-box h2{ width:100%; color: red; }
+  h2, p{color:#fff; font-size: 2vw;}
+  .carousel-item img{width:100%;}
+  .text-box {
+      position: absolute;
+      top: 25%;
+      left: 15%;
+      right: 15%;
+      color: #000;
+      transform: translateY(-50%);
+  }
