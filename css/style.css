@@ -1,14 +1,19 @@
+nav {
+    font-family: 'Varela Round', sans-serif;
+}
+
 .donateButtonDiv {
     margin-right: 1rem;
 }
 
 .donateButton {
-    height: 52px;
+    height: 70px;
     width: 100px;
     border-radius: 10px;
     background-color: #025289;
     border: 0;
     color: white;
+    /* margin-left: 100%; */
 }
 
 #navbarSupportedContent {
@@ -19,13 +24,16 @@
     padding-right: 2rem;
 }
 
-.carousel .item {
-    height: 200px;
+img {
+    width: 100%;
+}
+.carousel-item {
+    height: 700px;
   }
   
-  .item img {
+  .carousel-item img {
       position: absolute;
       top: 0;
       left: 0;
-      min-height: 200px;
+      min-height: 700px;
   }
